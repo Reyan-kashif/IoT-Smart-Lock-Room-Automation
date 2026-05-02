@@ -27,8 +27,8 @@
 #define RELAY4_PIN  16
 
 // ================== WIFI ==================
-char ssid[] = "Reyan's A51";
-char pass[] = "11223344";
+char ssid[] = "";
+char pass[] = "";
 
 // ================== SYSTEM ==================
 const String PASSWORD = "1111";
