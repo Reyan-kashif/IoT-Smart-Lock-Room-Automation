@@ -172,17 +172,17 @@ IoT-Smart-Lock-Room-Automation/
 │   └── EspCode.ino              # Main ESP32-S3 firmware
 │
 ├── docs/
-│   └── main.tex                 # IEEE-format review paper (LaTeX)
+│   └── Iot based Smart door lock and dynamic room automation system.pdf                 # IEEE-format review paper (LaTeX)
 │
 ├── simulation/
 │   └── ICT_Project.pkt          # Cisco Packet Tracer simulation
 │
 ├── images/
 │   ├── Cisco_Packet_Tracer_Circuit.png
-│   ├── Packet_Tracer_Flowchart.png
 │   ├── appendixA_components.png
 │   ├── appendixB_flowchart.png
 │   └── appendixC_circuit.png
+|   └── appendixD_blynk.png.png
 │
 ├── LICENSE
 └── README.md
